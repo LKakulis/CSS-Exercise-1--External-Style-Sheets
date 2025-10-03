@@ -8,7 +8,7 @@
         padding: 20px;
 }
     
-.site_title{background-color: rgb(60, 51, 36); padding: 10px; width: 185px; border-width: 3px; border-style: solid; border-color: rgb(27, 27, 36);}
+.site_title{background-color: rgb(60, 51, 36); padding: 10px; width: 185px; border-width: 3px;}
 .page_title{display: flex; justify-content: center;}
 .section_desc{background-color: rgb(21, 21, 71); padding: 5px; padding-left: 20px; padding-right: 20px; width: 400px; border-width: 3px;}
 .global_nav{background-color: rgb(165, 134, 100); padding: 15px; width: 98px; border-width: 3px;}
